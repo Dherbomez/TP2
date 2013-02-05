@@ -1,16 +1,23 @@
+
+
 #container
 {
+border : 5px dotted black; 
 	margin: 0 30px;
-	background: #fff;
+	background-color : grey;
 }
 
 #header
 {
-	background: #ccc;
+    
+	
 	padding: 20px;
+	background-color: #ccc;
 }
 
-#header h1 { margin: 0; }
+
+
+#header h1 { margin: 0;color : white; }
 
 #navigation
 {
@@ -36,7 +43,7 @@
 	display: block;
 	float: left;
 	padding: 5px 10px;
-	color: #fff;
+	color: white;
 	text-decoration: none;
 	border-right: 1px solid #fff;
 }
@@ -45,13 +52,14 @@
 
 #edito
 {
+border : 3px solid white;
 	clear: left;
 	padding: 20px;
 	margin: 20px;
 	-webkit-border-radius: 18px;
 	border-radius: 18px;
 	-webkit-box-shadow: 0px 0px 6px #000000;
-	box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 20px #000000;
 	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
 	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
 	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
@@ -76,7 +84,7 @@
 	-webkit-border-radius: 18px;
 	border-radius: 18px;
 	-webkit-box-shadow: 0px 0px 6px #000000;
-	box-shadow: 0px 0px 6px #000000;
+	box-shadow: 0px 0px 20px #000000;
 	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
 	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
 	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
