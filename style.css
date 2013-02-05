@@ -2,9 +2,9 @@
 
 #container
 {
-border : 5px dotted black; 
+border : 5px dotted blue; 
 	margin: 0 30px;
-	background-color : grey;
+	background-color : 	#DFF2FF;
 }
 
 #header
@@ -77,6 +77,7 @@ border : 3px solid white;
 
 #news
 {	
+border : 3px solid white;
 	float: left;
 	width: 40%;
 	padding: 20px;
